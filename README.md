@@ -1,0 +1,1 @@
+Simple user login and registration app using Node.js, Express, Passport-local, Mongoose, EJS template view engine,bcrypt (for salting and hashing password), connect-flash (for flash messsages) and MongoDB Atlas.
